@@ -1,262 +1,262 @@
-# Weekly ToC Digest (week of 2026-09-07)
+# Weekly ToC Digest (week of 2026-09-14)
 
-Papers relevant to computational neuroscience and physiological signal analysis were prioritized. Prioritizing papers involving methods for neural and physiological time series, oscillations, and cross-species electrophysiology to align with the user's interests. No highly relevant neural electrophysiology or computational neuroscience items in this week's RSS feeds. Prioritized neural dynamics, oscillations, and physiological signal processing.
+Limited articles align closely with the neural/physiological time series and oscillation focus, with none fully matching exact interests. Papers with electrophysiology, computational neuroscience, and physiological signal processing were prioritized. Focus on papers involving neural/physiological time series, oscillations, signal processing, and electrophysiology. Papers relevant to neural dynamics and electrophysiological methods were prioritized. Behavioral papers without associated electrophysiological aspects were down-weighted, as were clinical studies without computational modeling or neural data.
 
 **Included:** 15 (score ≥ 0.35)  
-**Scored:** 21 total items
+**Scored:** 16 total items
 
 ---
 
-## [Cortical isolation separates rhythmic synchrony from network integration in the human neocortex.](https://www.biorxiv.org/content/10.64898/2026.09.02.748777v1?rss=1)
-*bioRxiv*  
+## [Voltage imaging: A practical guide](https://www.cell.com/neuron/fulltext/S0896-6273(26)00611-2?rss=yes)
+*Neuron*  
 Score: **0.90**  
-Published: 2026-09-06T00:00:00+00:00
-Tags: oscillations, neural dynamics, EEG, human
+Published: 2026-09-10T00:00:00+00:00
+Tags: methods, electrophysiology
 
-Examines oscillatory activity and synchrony using human laminar recordings; key for neural dynamics and oscillations.
+This paper provides a comprehensive guide to voltage imaging, which includes data analysis algorithms and experimental protocols relevant to electrophysiological signal processing.
 
 <details>
 <summary>RSS summary</summary>
 
-Human cortical activity reflects interactions between local recurrent circuits and distributed brain-wide inputs, but how these contributions shape cortical dynamics remains unclear. We compared oscillatory and single unit activity in laminar recordings from the same human cortical regions in eight patients across wakefulness, NREM sleep, and acute slices after surgical isolation. Gamma-band spike-field synchronization increased from wakefulness to sleep and isolated cortex, whereas population c…
+Cohen and Gong provide a practical guide to voltage imaging, covering voltage indicators, gene expression strategies, instrumentation, instrument control software, data analysis algorithms, and experimental protocols. Signal-to-noise ratios and sources of artifacts are discussed in detail.
 
 </details>
 
 ---
 
-## [Realistic coupling enables flexible macroscopic traveling waves in the mouse cortex](https://elifesciences.org/articles/108208)
-*eLife*  
-Score: **0.90**  
-Published: 2026-09-04T00:00:00+00:00
-Tags: oscillations, signal processing, methods
-
-The paper explores macroscopic traveling waves using cortical connectivity data, relevant to oscillations and physiological signal processing.
-
-<details>
-<summary>RSS summary</summary>
-
-Traveling waves are ubiquitous in neuronal systems across different spatial scales. While microscopic and mesoscopic waves are relatively well studied, the emergence of macroscopic traveling waves remains less understood. Here, by modeling the mouse cortex using spatial transcriptomic and connectivity data, we show that realistic cortical connectivity can generate a significantly higher level of macroscopic traveling waves than artificial local and uniform connectivity across multiple oscillatio…
-
-</details>
-
----
-
-## [Hippocampal stimulation timed to memory reactivation shapes human sleep oscillatory dynamics and consolidation](https://www.biorxiv.org/content/10.64898/2026.09.02.748628v1?rss=1)
+## [Cortical high frequency oscillations reflect encoding and retrieval of specific word concepts](https://www.biorxiv.org/content/10.64898/2026.09.11.750906v1?rss=1)
 *bioRxiv*  
 Score: **0.85**  
-Published: 2026-09-02T00:00:00+00:00
-Tags: sleep, oscillations, hippocampus
+Published: 2026-09-13T00:00:00+00:00
+Tags: oscillations, EEG, electrophysiology
 
-Focuses on sleep oscillations and hippocampal activity, relevant to oscillatory dynamics and consolidation.
+This study uses intracranial electrode recordings to explore high-frequency oscillations in encoding and recall, fitting interests in oscillations and electrophysiology.
 
 <details>
 <summary>RSS summary</summary>
 
-Memory consolidation during sleep depends on the precisely timed coordination of hippocampal reactivation with cortical slow oscillations and spindles. In humans this coupling has been characterised correlationally, while causal investigations have required intracranial stimulation in restricted patient cohorts or used non-invasive approaches targeting cortical regions, often obscuring the underlying sleep rhythms. Here we stimulated the human hippocampus during sleep for the first time, applyin…
+High gamma and ripple frequency oscillations are engaged in encoding and recall of memory traces. Tracking specific traces with their signature neural activities across time and various tasks remains a major challenge. Using intracranial electrode recordings from epilepsy patients, we detected bursts of high-frequency oscillations in response to viewing and remembering the same common nouns in two different tasks repeated on subsequent days. We found the lowest word response selectivity of appro…
 
 </details>
 
 ---
 
-## [Cortico-cerebellar beta-band dynamics predict flexible motor timing](https://www.biorxiv.org/content/10.64898/2026.09.03.748373v1?rss=1)
-*bioRxiv*  
-Score: **0.80**  
-Published: 2026-09-06T00:00:00+00:00
-Tags: beta-band, motor, EEG, MEG
-
-Discusses cortico-cerebellar dynamics in motor timing using MEG, relevant to physiological signal processing.
-
-<details>
-<summary>RSS summary</summary>
-
-Flexible motor control requires that movements adapt to changing temporal contexts. Here, we test whether flexible timing is driven by context-dependent encoding across cortico-cerebellar circuits and how neural dynamics within these circuits enable accurate performance. To overcome the signal-to-noise limitations of conventional electro- and magnetoencephalography, we recorded whole-head neural dynamics using optically pumped magnetometer arrays (OPM-MEG). Participants learned a context-depende…
-
-</details>
-
----
-
-## [Differential locus coeruleus–hippocampus interactions during offline states](https://elifesciences.org/articles/109159)
-*eLife*  
-Score: **0.80**  
-Published: 2026-09-04T00:00:00+00:00
-Tags: neuronal timescales, physiological
-
-Explores locus coeruleus interactions, relevant to neuronal timescales and physiological processes.
-
-<details>
-<summary>RSS summary</summary>
-
-Patterns of locus coeruleus (LC) activity and norepinephrine (NE) release during non-rapid-eye-movement sleep suggest a critical role for the LC–NE system in offline modulation of forebrain circuits. NE transmission promotes synaptic plasticity and is required for memory consolidation, but the field has only begun to uncover how LC activity contributes to coordinated forebrain network dynamics. Hippocampal ripples, a hallmark of memory replay, are temporally coupled with thalamocortical oscillat…
-
-</details>
-
----
-
-## [Structured experience shapes strategy learning and neural dynamics in the medial entorhinal cortex](https://www.nature.com/articles/s41593-026-02409-7)
+## [Feature interference underlies a neuronal basis for the behavioral cost of task uncertainty](https://www.nature.com/articles/s41593-026-02430-w)
 *Nature Neuroscience*  
-Score: **0.80**  
-Published: 2026-09-03T00:00:00+00:00
+Score: **0.85**  
+Published: 2026-09-10T00:00:00+00:00
+Tags: electrophysiology, behavioral, computational
+
+Combines monkey electrophysiology with computational models, aligning with interests in electrophysiology and computational neuroscience.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 10 September 2026; <a href="https://www.nature.com/articles/s41593-026-02430-w">doi:10.1038/s41593-026-02430-w</a></p>Using a combined approach of monkey electrophysiology, artificial neural networks and human psychophysics, Xue et al. show that neuronal interference from irrelevant information underlies behavioral errors under task uncertainty.
+
+</details>
+
+---
+
+## [Mapping cell-type- and age-dependent neuronal vulnerability through genome-wide in vivo CRISPRi screens in the mouse brain](https://www.cell.com/neuron/fulltext/S0896-6273(26)00615-X?rss=yes)
+*Neuron*  
+Score: **0.85**  
+Published: 2026-09-09T00:00:00+00:00
+Tags: neuronal, methods
+
+The study uses CRISPRi screening to reveal neuronal vulnerabilities, offering insights into neural dynamics and potentially impacting methods for time series analysis.
+
+<details>
+<summary>RSS summary</summary>
+
+Lin et al. developed an in vivo CRISPRi screening platform to map gene function directly in the mouse brain. Their genome-wide survey across neuronal types and ages reveals cell-type-specific and age-dependent vulnerabilities that are invisible to cell-based models, offering a functional view of the brain beyond gene expression atlases.
+
+</details>
+
+---
+
+## [Longitudinal changes in control energy of brain networks in older adults at familial risk for Alzheimer's disease](https://www.biorxiv.org/content/10.64898/2026.09.06.749740v1?rss=1)
+*bioRxiv*  
+Score: **0.70**  
+Published: 2026-09-13T00:00:00+00:00
 Tags: neural dynamics, computational modeling
 
-This paper involves neural dynamics and computational modeling using recurrent neural networks, directly relevant to the interests in neural dynamics and electrophysiology.
+Focuses on neural dynamics in aging using network control theory which aligns with interests in physiological signal processing and computational modeling.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Neuroscience, Published online: 03 September 2026; <a href="https://www.nature.com/articles/s41593-026-02409-7">doi:10.1038/s41593-026-02409-7</a></p>The authors use recurrent neural networks to predict how structured prior experience shapes neural dynamics as mice learn flexible timing strategies during complex context-dependent behavior.
+The ability of structural brain networks to control neural dynamics is affected by healthy and pathological aging, including Alzheimers disease (AD). According to network control theory, transitions between functional brain states incur energetic costs. How these costs change longitudinally with aging remains unknown. Here, in 279 older adults at familial risk for AD, control energy increased longitudinally for state maintenance and transitions between sensorimotor and attentional networks, whil…
 
 </details>
 
 ---
 
-## [Ethical considerations for implantable human brain–computer interfaces](https://www.nature.com/articles/s41593-026-02447-1)
-*Nature Neuroscience*  
-Score: **0.75**  
-Published: 2026-09-07T00:00:00+00:00
-Tags: BCI, ethics, neural dynamics
-
-Addresses brain–computer interface technology and neural dynamics.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>Nature Neuroscience, Published online: 07 September 2026; <a href="https://www.nature.com/articles/s41593-026-02447-1">doi:10.1038/s41593-026-02447-1</a></p>Implanted brain–computer interfaces hold great promise for restoring communication and other functions and for revealing new aspects of human brain physiology. Yet as the number of implantations in humans expands, ethical clarity must keep pace with technical ambition. We propose that this should involve distinguishing research participat…
-
-</details>
-
----
-
-## [Distinct tuning properties of human hippocampal neurons along the longitudinal axis during working memory](https://www.biorxiv.org/content/10.64898/2026.09.03.749046v1?rss=1)
-*bioRxiv*  
-Score: **0.70**  
-Published: 2026-09-07T00:00:00+00:00
-Tags: hippocampus, timescales, working memory
-
-Investigates hippocampal neural tuning during working memory; connects to neuronal timescales.
-
-<details>
-<summary>RSS summary</summary>
-
-Working memory (WM) is among the most sophisticated and fundamental capabilities of the mammalian brain. While the roles of prefrontal and sensory areas are heavily explored, there is little knowledge on how the hippocampus (HPC) contributes to this process. Here, we studied human HPC neuronal activities during a verbal WM task and reveal that neurons in the posterior HPC (PH) show more robust rate-modulations during WM. On the other hand, anterior HPC (AH) neurons are more prominently modulated…
-
-</details>
-
----
-
-## [Spatially confined dopamine from locus coeruleus axons selectively shapes hippocampal dynamics and action timing](https://www.biorxiv.org/content/10.64898/2026.09.02.748730v1?rss=1)
-*bioRxiv*  
-Score: **0.70**  
-Published: 2026-09-02T00:00:00+00:00
-Tags: hippocampus, dopamine, neural dynamics
-
-Examines locus coeruleus modulation on hippocampal dynamics; connects to neural signaling.
-
-<details>
-<summary>RSS summary</summary>
-
-Neuromodulatory systems project broadly, yet computations engage specific neuronal populations. Whether neuromodulation can selectively influence task-engaged neurons remains unclear. During goal-directed navigation, neurons in the locus coeruleus (LC), the brain's principal norepinephrine source, responded at navigation onset. Concurrently, dopamine transients arose in micrometer-scale domains around LC axons in CA1. These transients preferentially enhanced nearby CA1 neurons with ramping dynam…
-
-</details>
-
----
-
-## [Neural geometry guides learning](https://www.nature.com/articles/s41593-026-02442-6)
-*Nature Neuroscience*  
-Score: **0.70**  
-Published: 2026-09-04T00:00:00+00:00
-Tags: timescales, neural dynamics
-
-Focuses on neural activity geometry, indirectly related to timescales and neural dynamics.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>Nature Neuroscience, Published online: 04 September 2026; <a href="https://www.nature.com/articles/s41593-026-02442-6">doi:10.1038/s41593-026-02442-6</a></p>Why some skills are easier to learn than others remains a central question in neuroscience. Busch and colleagues demonstrate that the intrinsic geometry of human brain activity shapes learning, thereby facilitating adaptation that remains within existing neural manifolds while limiting learning beyond them.
-
-</details>
-
----
-
-## [Frequency and laminar profile of feature-specific visual activity revealed by interleaved EEG–fMRI](https://elifesciences.org/articles/108408)
+## [PRRT2 as an auxiliary regulator of Nav channel slow inactivation](https://elifesciences.org/articles/109327)
 *eLife*  
 Score: **0.70**  
-Published: 2026-09-03T00:00:00+00:00
-Tags: EEG, oscillations
+Published: 2026-09-11T00:00:00+00:00
+Tags: Nav channels, neuronal dynamics
 
-The use of EEG with layer-specific analysis relates to interests in electrophysiology and oscillatory dynamics.
+Touches on neural channel dynamics, relevant within oscillations and signal processing.
 
 <details>
 <summary>RSS summary</summary>
 
-The role of cortical oscillations in brain function has been extensively debated, resulting in a variety of theoretical frameworks. Using interleaved simultaneous electroencephalography–functional magnetic resonance imaging, we examined the layer-specific relationship between oscillatory activity and visual processing. We could demonstrate that <i>γ</i> band activity positively correlates with feature-specific signals in superficial layers, but we were able to report a deep layer contribution as…
+During sustained activity, voltage-gated sodium (Nav) channels enter a slow-inactivated state to limit cellular hyperexcitability. Disruption of this regulatory process has been implicated in skeletal, cardiac, and neurological disorders. While the kinetics of this process are well characterized, its endogenous modulators remain unclear. Here, we identify Proline-Rich Transmembrane Protein 2 (PRRT2) as a native regulator of Nav channel slow inactivation. We show that PRRT2 facilitates the entry …
 
 </details>
 
 ---
 
-## [Natural prey capture reveals flexible reconfiguration of canonical motor-cortical dynamics for online control](https://www.biorxiv.org/content/10.64898/2026.09.01.748436v1?rss=1)
+## [Representational learning by optimization of neural manifolds in an olfactory memory network](https://www.nature.com/articles/s41593-026-02429-3)
+*Nature Neuroscience*  
+Score: **0.70**  
+Published: 2026-09-10T00:00:00+00:00
+Tags: neural, dynamics
+
+Combines experimental work with theoretical modeling to explore neural dynamics in memory networks, relating to spectral and waveform dynamics.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 10 September 2026; <a href="https://www.nature.com/articles/s41593-026-02429-3">doi:10.1038/s41593-026-02429-3</a></p>Using experiments and theory, the authors examine how olfactory memories are encoded in the zebrafish olfactory cortex. They find that experience reshapes the internal map of odor space, making relevant information more accessible.
+
+</details>
+
+---
+
+## [Competing calcium sensors orchestrate various patterns of synaptic transmission](https://www.biorxiv.org/content/10.64898/2026.09.09.750532v1?rss=1)
+*bioRxiv*  
+Score: **0.68**  
+Published: 2026-09-13T00:00:00+00:00
+Tags: neuronal timescales, synaptic dynamics, electrophysiology
+
+Explores neuronal timescales and synaptic transmission dynamics, relevant to neuronal timescales and computational modeling.
+
+<details>
+<summary>RSS summary</summary>
+
+Neurotransmission critically depends on both timing and efficacy, enabling neurons to encode information with highly accuracy in millisecond timescales. While synapses often express multiple calcium sensors, such as synaptotagmin-1 (syt1) and synaptotagmin-7 (syt7), the quantitative mechanisms by which these sensors regulate synchronous release (SR) and asynchronous release (AR) remain unresolved. We develop a biophysically detailed stochastic model of a presynaptic bouton that incorporates the …
+
+</details>
+
+---
+
+## [Clustering without clusters: the meta-criterion and centroid reliability mistake continuous dynamics for discrete states](https://www.biorxiv.org/content/10.64898/2026.09.06.749668v1?rss=1)
 *bioRxiv*  
 Score: **0.65**  
-Published: 2026-09-06T00:00:00+00:00
-Tags: motor control, cortical dynamics
+Published: 2026-09-13T00:00:00+00:00
+Tags: methods, EEG, dynamics
 
-Explores motor cortical dynamics relevant to flexible motor control, links to motor timing and dynamics.
+Involves EEG and analysis of continuous dynamics, relevant to neural time series methods.
 
 <details>
 <summary>RSS summary</summary>
 
-The ability to record neural populations during natural behavior now allows us to ask whether canonical motor-cortical dynamics, defined largely in constrained reaches to static targets, also organize self-paced, feedback-rich actions that require continuous correction. We recorded sensorimotor cortex in marmosets freely capturing live prey, a behavior that separates into ballistic quick captures and dynamic pursuits requiring real-time adjustment. Ballistic captures corresponded to canonical co…
+Microstate analysis starts with clustering and the meta-criterion is a heuristic to find an optimum cluster number. We address the following questions: (i) what number is found for non-cluster-forming dynamical systems, (ii) do centroids fall in random attractor regions, (iii) do EEG topographies form clusters or a single connected structure in sensor space? We find that (i) the meta-criterion suggests spurious optimal cluster numbers (4-8) with high confidence on different attractor geometries,…
 
 </details>
 
 ---
 
-## [Shank3 mutation disrupts affective touch encoding in the dorsal medial prefrontal cortex of Beagle dogs](https://www.biorxiv.org/content/10.64898/2026.09.01.748311v1?rss=1)
+## [Polar Geometry of Time-Odd EEG Dynamics](https://www.biorxiv.org/content/10.64898/2026.09.08.749160v1?rss=1)
+*bioRxiv*  
+Score: **0.63**  
+Published: 2026-09-13T00:00:00+00:00
+Tags: EEG, oscillations, dynamics
+
+Investigates EEG dynamics and state transitions, matching interests in oscillations and neural dynamics.
+
+<details>
+<summary>RSS summary</summary>
+
+Abstract Objective. Longitudinal EEG recordings vary across sessions because of electrode reapplication, referencing, recording conditions, and physiological state. We asked whether multichannel EEG contains a time-odd geometric structure that remains subject-discriminative across repeated recordings and extended inter-session intervals. Approach. We constructed a local state-derivative operator T_ij = corr(m_i, Delta x_j) and isolated its exact skew component, K = 1/2(T - T^T). Polar decomposit…
+
+</details>
+
+---
+
+## [Dissociable changes in temporal precision and causal expectations following perceptual training](https://www.biorxiv.org/content/10.64898/2026.09.06.749727v1?rss=1)
 *bioRxiv*  
 Score: **0.60**  
-Published: 2026-09-05T00:00:00+00:00
-Tags: cross-species, electrophysiology
+Published: 2026-09-13T00:00:00+00:00
+Tags: timescales, temporal dynamics
 
-Involves cross-species electrophysiology using canine models, relevant to the user's focus.
+Although more behavioral, it discusses temporal processing relevant to neuronal timescales.
 
 <details>
 <summary>RSS summary</summary>
 
-Individuals with autism spectrum disorder (ASD) often show aversion to affective touch (AT). However, the neural mechanism of this abnormality in cortices remains poorly understood probably due to the lack of effective animal models. Here, we used a canine model to address this issue by leveraging the intimate dog-human interactions. In a newly-designed heterospecific AT paradigm, we found that dogs carrying mutations in Shank3, a high-risk gene for ASD, avoided human AT. In vivo single-unit rec…
+A common behavioral gain does not necessarily reflect a common learning mechanism. Perceptual learning may sharpen sensory evidence without updating higher-level expectations about its causes. Across three experiments, we examined audiovisual binding and its plasticity in children with ADHD and typically developing children. Children with ADHD were more susceptible to the sound-induced flash illusion (Experiment 1) and showed markedly flatter temporal tuning of it (Experiment 2), yet conventiona…
 
 </details>
 
 ---
 
-## [No evidence for modulation of the readiness potential by respiratory phase during natural breathing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003982)
-*PLOS Biol*  
-Score: **0.60**  
-Published: 2026-09-02T14:00:00+00:00
-Tags: EEG, respiration, signal processing
+## [Hippocampal-cingulate dynamics in the human brain link reinforcement-learning and memory](https://www.biorxiv.org/content/10.64898/2026.09.10.750374v1?rss=1)
+*bioRxiv*  
+Score: **0.59**  
+Published: 2026-09-12T00:00:00+00:00
+Tags: neural dynamics, computational modeling
 
-Includes EEG data examining the link between respiratory processes and neural activity, aligning with interests in physiological signal processing.
+Combines intracranial recordings with computational modeling, fitting neural dynamics interests.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>by Lucas Jeay-Bizot, Raniyah Chishti, Uri Maoz, Aaron Schurger</p> Respiratory processes are increasingly implicated in shaping neural activity and behavior. Recent studies have reported a coupling between respiratory phase and the cortical readiness potential (RP), suggesting that breathing may modulate the neural processes preceding voluntary action. Here, using electroencephalography recordings in humans, we re-examine this claim using the original dataset and a new independent dataset, as…
+Reinforcement learning (RL) models describe how reward computations shape our choices, but whether the same computations also shape memory in the human brain is unclear. To address this question, we combined multi-areal intracranial recordings with computational modeling of reward and memory in neurosurgical patients. Patients played a gambling task in which decisions yielded monetary rewards tied to trial-unique images, followed immediately by a recognition test for those images. Model-derived …
 
 </details>
 
 ---
 
-## [Seizures induce c-fos expression in a subset of astrocytes, termed fostrocytes, that dampen subsequent seizures](https://www.biorxiv.org/content/10.64898/2026.09.01.748637v1?rss=1)
+## [Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment](https://www.nature.com/articles/s41593-026-02415-9)
+*Nature Neuroscience*  
+Score: **0.55**  
+Published: 2026-09-11T00:00:00+00:00
+Tags: sleep, oscillations, age-related dynamics
+
+Study of sleep-related slow-wave dynamics in aging, touching on oscillations and memory, which are of tangential interest.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 11 September 2026; <a href="https://www.nature.com/articles/s41593-026-02415-9">doi:10.1038/s41593-026-02415-9</a></p>Frontal cortical tau pathology in aging humans is associated with reduced slow-wave travel during sleep. This reduced propagation is associated with poorer overnight memory retention, supporting a link between slow-wave travel and age-related memory function.
+
+</details>
+
+---
+
+## [Neural and autonomic predictors of future listening errors](https://www.biorxiv.org/content/10.64898/2026.09.09.750180v1?rss=1)
 *bioRxiv*  
 Score: **0.50**  
-Published: 2026-09-05T00:00:00+00:00
-Tags: neural dynamics
+Published: 2026-09-14T00:00:00+00:00
+Tags: EEG, neural, autonomic
 
-Explores neural circuits in epilepsy, involving neural dynamics but less focused on user's primary keywords.
+Involves EEG and neural processing which touches on physiological signal processing but lacks specific time series or oscillation analysis.
 
 <details>
 <summary>RSS summary</summary>
 
-Objective: The original goal was to map neuronal circuits activated by spontaneous seizures in models of temporal lobe epilepsy. Studies used the c-fos driven TRAP2 system, which has been used successfully to label neurons after seizures. Unexpectedly, astrocytes were also labeled, then shown to express c-fos in a sustained manner after seizures. The role of these so-called fostrocytes in spontaneous seizures was studied using novel Cre-dependent AAVs. Methods: Studies used a homozygous mouse li…
+Some of the most demanding perceptual tasks require sustained vigilance to detect and classify infrequent, unpredictable targets within continuous sensory streams. Here, we designed a sustained listening task to ask whether cardinal classes of perceptual errors (misclassifications, miss, and false alarms) were associated with variability in event-related processing, ongoing cortical state, and autonomic arousal. We recorded 64-channel scalp EEG and pupil diameter in 39 adults while they monitore…
+
+</details>
+
+---
+
+## [Large Language Models Predict Human Social Behavior via Interpretable Mechanisms](https://www.biorxiv.org/content/10.64898/2026.09.06.749667v1?rss=1)
+*bioRxiv*  
+Score: **0.50**  
+Published: 2026-09-13T00:00:00+00:00
+Tags: computational modeling, neuroscience
+
+While less relevant, involves computational models that could offer insights into human neural processing.
+
+<details>
+<summary>RSS summary</summary>
+
+The development of large language models (LLMs) offers promising opportunities for predicting human behavior across diverse contexts. However, most prior work has emphasized behavioral imitation, with limited attention to transparent or interpretable models of the cognitive mechanisms underlying human decisions. In this study, we introduce MindEvolve, an autonomous workflow designed to predict behavior in social interactions by generating interpretable symbolic models of cognition. We systematic…
 
 </details>
 
