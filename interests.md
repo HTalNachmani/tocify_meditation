@@ -17,32 +17,25 @@ If it is primarily microbiology/immunology/metabolism/genetics without neural dy
   cap score at 0.25. -->
 
 ## keywords
-EEG
-electroencephalography
-MEG
-magnetooencephalography
-LFP
-local field potential
-iEEG
-ECoG
-electrocorticography
-neural oscillations
-aperiodic activity
+meditation
+advanced meditation
+phenomenology
+neurophenomenology
+computational phenomenology
+computational psychiatry
+clinical positive psychology
 neural timescales
 ECG
-electrocorticography
-working memory
+EKG
 attention
 cognitive control
-respiration waveform
-specparam
-spectral parameterization
-fooof
-bycycle
-neural data science
+selflessness
+ego-dissolution
 computational neuroscience
 neural computation
-aging and cognition
+development
+learning
+
 
 ## narrative
 My research focuses on large-scale neural and physiological dynamics using computational and data-science approaches across species and recording modalities. I work extensively with heterogeneous datasets (EEG, LFP, iEEG, behavioral and physiological signals), emphasizing open science, reproducible methods, and scalable analysis tools for neural time series.
