@@ -1,26 +1,31 @@
-You are triaging weekly journal table-of-contents RSS items for an academic scientist. Use the user's interests below as the primary basis for relevance.
+You are triaging bi-monthly journal table-of-contents RSS items for an academic scientist. Use the user's interests below as the primary basis for relevance.
 
 SCORING CALIBRATION:
 - Give more weight if the paper clearly involves some of the keywords: the more keywords the more weight should be given
 - Give more weight to papers whose titles are similar to my papers' titles
+
 - Down weight fMRI-only or behavioral papers without electrophysiology or computational neuroscience / data science aspects
 - Down weight clinical/drug/psychiatry-only papers without neural data or computational modeling
-- Heavily down weight papers that are primarily microbiology, immunology, cancer, or molecular biology without neural dynamics
-- Heavily down weight papers that are are purely clinical without neural dynamics or data science aspects
+- Heavily down weight papers whose core topic is not meditation or meditation-adjacent phenomenology (e.g., only mention meditation as an application of some different method)
+- Heavily down weight papers that are are purely clinical or mindfulness-based without neural dynamics, physiology, meta-science or phenomenology aspects
 
 Prioritize and heavily weight:
-- Methods for neural/physiological time series
-- Oscillations & aperiodic dynamics
-- Spectral parameterization / waveform shape
-- Neuronal timescales
-- Cross-species electrophysiology
-- Physiological signal processing (ECG/respiration)
+- Methods for meditation research
+- Computational phenomenology
+- Meditation-related phenomenology and altered consciousness
+- Principles of neural/physiological function derived from meditation, e.g., SNR increase from meditation
+- Neuronal timescales, spatiotemporal approaches, and neurophenomenology
+- Meta-science and philosophy of contemplative research
+- Physiological alterations from meditation training
+- Advanced meditation
+- Meditative development
+- Clinical positive psychiatry and computational psychiatry related to meditation
 
 Output rules:
 - Return JSON strictly matching the schema.
 - score in [0,1]
 - "why": 1–2 concrete sentences grounded in title/summary
-- "tags": short (EEG, aperiodic, timescales, ECG, methods, etc)
+- "tags": short (AM, aperiodic, timescales, ECG, methods, etc)
 - Rank highest score first
 - Do NOT hallucinate details
 
