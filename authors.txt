@@ -1,0 +1,15 @@
+# Authors to track, one per line. '#' starts a comment.
+# Items by these authors skip the keyword prefilter, are never dropped by the item cap,
+# and are flagged to the model as "tracked_authors".
+#
+# Matching uses surname + first initial only, so all of these are equivalent:
+#   Matthew D. Sacchet   |   Sacchet, Matthew   |   Sacchet, M.   |   M Sacchet   |   Sacchet MD
+# A bare surname matches any initial (use only for rare surnames):
+#   Sacchet
+#
+# Limits: only works for feeds that publish author names (bioRxiv and most journal feeds
+# do; some, e.g. Science's ToC feed, may not). Accents are ignored. A same-surname,
+# same-initial author is a false positive; a name published in a different form
+# (e.g. a married name) is a miss, so list both forms.
+#
+# Lastname, F.
